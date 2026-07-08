@@ -1,0 +1,17 @@
+﻿
+> frontend@0.1.0 dev
+> next dev
+
+  Γû▓ Next.js 14.2.15
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ Γ£ô Starting...
+ Γ£ô Ready in 5.1s
+ Γùï Compiling / ...
+ Γ£ô Compiled / in 8.1s (622 modules)
+ Γ£ô Compiled in 687ms (289 modules)
+ GET / 200 in 8878ms
+ Γùï Compiling /products ...
+ Γ£ô Compiled /products in 511ms (613 modules)
+ Γ£ô Compiled /about in 280ms (621 modules)
